@@ -26,6 +26,7 @@
     "superagent": "^3.8.3",
     "fs": "^0.0.2",
     "discord-money": "^0.2.0",
-    "ytdl-core": "^0.20.4"
+    "ytdl-core": "^0.20.4",
+    "node": "^8.11.2"
   }
 }
