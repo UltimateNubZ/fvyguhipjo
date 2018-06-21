@@ -619,6 +619,6 @@ let clearEmbed = new Discord.RichEmbed()
 
 })
 
-let token = config.token
+let token = process.env.token
 
 bot.login(token);
